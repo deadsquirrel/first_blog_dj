@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+eb-env
+db.sqlite3
+.DS_Store
+*~
