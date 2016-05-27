@@ -4,3 +4,5 @@ eb-env
 db.sqlite3
 .DS_Store
 *~
+*.py~
+*.swp
