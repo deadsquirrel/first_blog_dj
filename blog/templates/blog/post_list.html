@@ -8,6 +8,13 @@
             <br>
             <p> kiss my metal ass
         </div>
+        {% for post in posts %} 
+        <div>
+            <p>published: {{ post.published_date }}</p>
+            <h1><a hret="">{{post.title}}</a></h1>
+            <p>{{post.text|linebreaks}}</p>
+        </div>
+        {% endfor %}
         <div>
             <img src="">
         </div>
