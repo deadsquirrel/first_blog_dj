@@ -1,9 +1,18 @@
+h1 {
+    color: #bb3456;
+    size=36;
+    font-family: 'Ruslan Display', arial, serif;
+    } 
 h1 a {    
     color: #005555;
+    font-family: 'Lobster';
     }
 body {
-     color: #121563;
-     }  
-body {
+    color: #121501;
     padding-left: 25px;
     } 
+.pablish {
+    background-color: #ff9401;
+    margin-top: 0;
+    }
+
