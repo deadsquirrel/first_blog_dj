@@ -19,7 +19,7 @@ body {
     */
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #a31fe0;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
     }
@@ -27,7 +27,7 @@ body {
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
-    text-decoration: none;
+        text-decoration: none;
     }
 
 .content {
@@ -39,8 +39,13 @@ h1, h2, h3, h4 {
     }
 
 .date {
-    float: right;
-    color: #828282;
+    background-color: #a31fe0;
+    margin-top: 0;
+    padding: 10px 5px 2px 4px;
+    text-align: right;
+    /* float: right; */
+    text-decoration: [blink];
+    color: #ffffff;
     }
 
 .save {
