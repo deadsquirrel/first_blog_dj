@@ -19,15 +19,18 @@ body {
     */
 
 .page-header {
-    background-color: #a31fe0;
+    /* background-color: #a31fe0;*/
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    background: url("https://lh3.googleusercontent.com/-MS5kfGfzgGtGb-qu5-dra9ojtGcotb8wU_9FYWgzesm7HPX_s_oX63HhoTIwwc9QpWPBXiwv90siD18IzyVlKacYy7MtvLnGqGq34xfsIq6lCUb08tXx89jxeylAsK2Xv5ulrsoZFYivw5l11T3w2VIFIu6qZ1eQ103RP2il_W3xKeXCiskDrY7ITyCDHXYaxdsrVOdfeDXPYvSDg7IiMtM-HiDitn0GOG8fSQQAdIcNT_SqLUctEec9r3p_BM0RJqy6i9XSSjU5hjbzWzlhWw-2YTQ-LaGtVdCuGCn-UM8XSQ0TQ-YiV031fNGkPNoM3VAgxw-XBhvSiTLqUYv3vU_XKlQw6omw4XAw3vmKN2THX8KdmfUxJRmAQLuiA4OnYW8DS5XClK78H0qF_r5jtWcTuq4QcOOvCbjhrDH5YctD_uXXcv2a9efo5zygoK5dCAelyxZECMcq-T5Sd9n40l92-uqGh_jHuR4M40VlufMEAWwHv6I-trgRZ2x58E5cJCSm8apwPHE2GMeWofQ2zN0j5ls4sregdLzGy0yzgyKjbr9ARTAUAe2Qzo4ENFXdoK5VwykgrtUnoc_H56DXj7phlKjkMg=w380-h220-no");
+    background-size: 100%;
+    background-position: no-repeat;
     }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
-        text-decoration: none;
+    text-decoration: none;
     }
 
 .content {
